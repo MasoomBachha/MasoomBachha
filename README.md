@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning.
 - 👀 I’m looking for help with Open Source.
 - 💬 Ask me about anything, will try to help.
-- 📫 Find me on Telegram - [![telegram badge](https://img.shields.io/badge/NOOB-30302f?style=flat&logo=telegram)](https://t.me/NOOB)
+- 📫 Find me on Telegram - [![telegram badge](https://img.shields.io/badge/NOOB-30302f?style=flat&logo=telegram)](https://t.me/NOOB_GUY_OP)
 - ⚡ Fact: I am a Big Noob.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sipakisking&show_icons=true&title_color=fff&icon_color=32cc32&text_color=00ccff&bg_color=151515)
